@@ -3,12 +3,12 @@
 export default function Post_3() {
     return (
         <>
-            <div className="container mx-auto px-5 mb-10">
-                <div div className="grid grid-cols-12 gap-4 ">
-                    <div className="col-start-3 col-span-8 text-lg font-sans text-justify">
-                    <div class="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
-                        <h1 className="text-4xl font-semibold"> “God's Own Country”: The Green nature</h1><br></br>
-                        <div class="blog-content mx-auto">
+            <div   className="container mx-auto px-5 mb-10">
+                <div  className="grid grid-cols-12 gap-4 ">
+                    <div   className="col-start-3 col-span-8 text-lg font-sans text-justify">
+                    <div  className="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
+                        <h1   className="text-4xl font-semibold"> “God's Own Country”: The Green nature</h1><br></br>
+                        <div  className="blog-content mx-auto">
                             <img src="https://www.ramana-maharshi.org/wp-content/uploads/2024/06/Keralas_Karma_The_States_Hindu_Temples_0003.jpg" /><br></br>
                             <p>Kerala’s Hindu temples are famous for their beautiful design, which blends local styles with the traditional Dravidian architecture from Southern India. Their detailed artwork and thoughtful placement in nature show a special mix of influences. These temples often have a unique roof that slopes down in layers and is covered with copper. This design is not only good for when it rains a lot, but it also has a deeper meaning. The layers lead up to the most sacred part of the temple, where the main god is honored.</p><br></br>
                             <p>The walls and pillars of these temples are like storybooks, with sculptures that bring to life old Hindu stories and local legends. This shows how skilled the artists were back then and how much thought they put into their religion. The way the temples are set up is also very intentional, using the stars and the Earth’s energy as guides. This makes the temple a map of the universe, carved in stone and wood.</p><br></br>
@@ -24,10 +24,10 @@ export default function Post_3() {
                             <p>Love,</p><br></br>
                             <p>Gowtham Siddharth</p><br></br>
                             </div>
-                        <div class="mt-10 opacity-40 text-sm">
-                            <span class="text-primary mr-2" href="/tag/travel">#travel</span>
-                            <span class="text-primary mr-2" href="/tag/bhutan">#Kerala</span>
-                        </div><div class="text-sm opacity-40 mt-4">4/30/2024</div>
+                        <div  className="mt-10 opacity-40 text-sm">
+                            <span  className="text-primary mr-2" href="/tag/travel">#travel</span>
+                            <span  className="text-primary mr-2" href="/tag/bhutan">#Kerala</span>
+                        </div><div  className="text-sm opacity-40 mt-4">4/30/2024</div>
                     </div>
                 </div>
                 </div>

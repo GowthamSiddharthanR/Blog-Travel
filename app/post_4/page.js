@@ -3,12 +3,12 @@
 export default function Post_4() {
     return (
         <>
-            <div className="container mx-auto px-5 mb-10">
-                <div div className="grid grid-cols-12 gap-4 ">
-                    <div className="col-start-3 col-span-8 text-lg font-sans text-justify">
-                        <div class="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
-                            <h1 className="text-4xl font-semibold">The crystal clear skies, landscapes: Ladakh</h1><br></br>
-                            <div class="blog-content mx-auto">
+            <div   className="container mx-auto px-5 mb-10">
+                <div  className="grid grid-cols-12 gap-4 ">
+                    <div   className="col-start-3 col-span-8 text-lg font-sans text-justify">
+                        <div  className="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
+                            <h1   className="text-4xl font-semibold">The crystal clear skies, landscapes: Ladakh</h1><br></br>
+                            <div  className="blog-content mx-auto">
                                 <img src="https://sandeepachetan.com/wp-content/uploads/2013/10/tumblr_musxar5qun1s2js0yo1_1280-e1538746509190.jpg" /><br></br>
                                 <p>The culture of Ladakh is as beautiful as its scenic view. The main religion followed in Ladakh is Buddhism and thus Ladakh’s culture is heavily influenced by Buddhism. The people of Ladakh are down-to-earth and jolly by nature. They celebrate their festivals passionately and enthusiastically. The major festivals of Ladakh are celebrated in monasteries. A special and unique trait of the people of Ladakh worth mentioning is their sense of community. </p><br></br>
                                 <p>Ladakh has a rich culture and tradition and another amazing thing to explore while in Ladakh is folk music and dance. Chaam is one of the most famous dance forms of Ladakh, it is also called mask dance. Chaam metaphorically denotes the victory of good over evil. Other popular dance forms of Ladakh are Khatok and Chenmo. One can get a glimpse of this beautiful dance at any of the big festivals of Ladakh-Losar and Hemis Tsechu festivals.</p><br></br>
@@ -23,10 +23,10 @@ export default function Post_4() {
                                 <p>Love,</p><br></br>
                                 <p>Gowtham Siddharth</p><br></br>
                             </div>
-                            <div class="mt-10 opacity-40 text-sm">
-                                <span class="text-primary mr-2" href="/tag/travel">#travel</span>
-                                <span class="text-primary mr-2" href="/tag/bhutan">#Ladak</span>
-                            </div><div class="text-sm opacity-40 mt-4">4/30/2024</div>
+                            <div  className="mt-10 opacity-40 text-sm">
+                                <span  className="text-primary mr-2" href="/tag/travel">#travel</span>
+                                <span  className="text-primary mr-2" href="/tag/bhutan">#Ladak</span>
+                            </div><div  className="text-sm opacity-40 mt-4">4/30/2024</div>
                         </div>
                     </div>
                 </div>

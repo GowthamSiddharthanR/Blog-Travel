@@ -3,12 +3,12 @@
 export default function Post_2() {
     return (
         <>
-            <div className="container mx-auto px-5 mb-10">
-                <div div className="grid grid-cols-12 gap-4 ">
-                    <div className="col-start-3 col-span-8 text-lg font-sans text-justify">
-                        <div class="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
-                            <h1 className="text-4xl font-semibold">Sacred city on Mount Arunachala: The Fire is Here</h1><br></br>
-                            <div class="blog-content mx-auto">
+            <div   className="container mx-auto px-5 mb-10">
+                <div   className="grid grid-cols-12 gap-4 ">
+                    <div   className="col-start-3 col-span-8 text-lg font-sans text-justify">
+                        <div  className="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
+                            <h1   className="text-4xl font-semibold">Sacred city on Mount Arunachala: The Fire is Here</h1><br></br>
+                            <div  className="blog-content mx-auto">
                                 <img src="https://cdn.wallpapersafari.com/38/49/ipJrAw.jpg" /><br></br>
                                 <p>The temple of Tiruvannamalai, or Arunachalaleswarar Temple, occupies an area of 10 hectares and is one of the largest temples in India, with Gopuram up to 66 meters high. I immediately notice that the Gopurams are not colored, as I had seen in some photos, but off-white, which makes them much less showy. Pandi, my guide, explains the temples are colored with bright colors but in time the weather discolor them. That is why the faithful are often asked to pay offers to repaint them.</p><br></br>
                                 <p>Outside the temple, near the Gopuram of Thirumanjana, the streets are filled with flower stalls and votive offerings. All the faithful buy something to offer at the foot of some sacred statue. This rite is called Puja and it consists of a series of offerings, gestures and mantras to be recited at the feet of sacred statues in order to obtain a personal benefit more wealth, more health, more love etc.There is also a cotton candy seller to delight children!</p><br></br>
@@ -24,10 +24,10 @@ export default function Post_2() {
                                 <p>Love,</p><br></br>
                                 <p>Gowtham Siddharth</p><br></br>
                             </div>
-                            <div class="mt-10 opacity-40 text-sm">
-                                <span class="text-primary mr-2" href="/tag/travel">#travel</span>
-                                <span class="text-primary mr-2" href="/tag/bhutan">#Thiruvanamalai</span>
-                            </div><div class="text-sm opacity-40 mt-4">4/30/2024</div>
+                            <div  className="mt-10 opacity-40 text-sm">
+                                <span  className="text-primary mr-2" href="/tag/travel">#travel</span>
+                                <span  className="text-primary mr-2" href="/tag/bhutan">#Thiruvanamalai</span>
+                            </div><div  className="text-sm opacity-40 mt-4">4/30/2024</div>
                         </div>
                     </div>
                 </div>

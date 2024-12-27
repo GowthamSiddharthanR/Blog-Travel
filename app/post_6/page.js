@@ -3,12 +3,12 @@
 export default function Post_6() {
     return (
         <>
-            <div className="container mx-auto px-5 mb-10">
-                <div div className="grid grid-cols-12 gap-4 ">
-                    <div className="col-start-3 col-span-8 text-lg font-sans text-justify">
-                        <div class="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
-                            <h1 className="text-4xl font-semibold">Land of culture and architecture: The chola's Kingdom</h1><br></br>
-                            <div class="blog-content mx-auto">
+            <div   className="container mx-auto px-5 mb-10">
+                <div    className="grid grid-cols-12 gap-4 ">
+                    <div   className="col-start-3 col-span-8 text-lg font-sans text-justify">
+                        <div  className="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
+                            <h1   className="text-4xl font-semibold">Land of culture and architecture: The chola's Kingdom</h1><br></br>
+                            <div  className="blog-content mx-auto">
                                 <img src="https://mediaim.expedia.com/destination/1/c356c905de5af9245f36a4374bd5cbea.jpg" /><br></br>
                                 <p>Tamilnadu in India is well known for its ancient temples which are no less than architectural gems, to say the least. It is home to more than 33000 temples. YES! You heard me right, 33000 temples which earned this state its label the “Land of Temples”. Out of these many temples, more than half of them are 800 to 2000 year old. Tamilnadu also boasts of housing most of the biggest temples in India.</p><br></br>
                                 <p>Among those, the Brihadiswara Temple or popularly known as the Tanjore Big Temple in Tamilnadu stands out with its ginormous structure and spectacular architecture. It is one of the ancient temples in India and is dedicated to Lord Shiva, one among the Three God heads in Hinduism. A fine exemplar of the ancient Dravidian architecture, this piece of art was built by the great Raja Raja Chola I in the year 1010 AD. He was an ardent devotee of Lord Shiva.</p><br></br>
@@ -23,10 +23,10 @@ export default function Post_6() {
                                 <p>Love,</p><br></br>
                                 <p>Gowtham Siddharth</p><br></br>
                             </div>
-                            <div class="mt-10 opacity-40 text-sm">
-                                <span class="text-primary mr-2" href="/tag/travel">#travel</span>
-                                <span class="text-primary mr-2" href="/tag/bhutan">#Thanjavur</span>
-                            </div><div class="text-sm opacity-40 mt-4">4/30/2024</div>
+                            <div  className="mt-10 opacity-40 text-sm">
+                                <span  className="text-primary mr-2" href="/tag/travel">#travel</span>
+                                <span  className="text-primary mr-2" href="/tag/bhutan">#Thanjavur</span>
+                            </div><div  className="text-sm opacity-40 mt-4">4/30/2024</div>
                         </div>
                     </div>
                 </div>

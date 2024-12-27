@@ -3,12 +3,12 @@
 export default function Post_5() {
     return (
         <>
-            <div className="container mx-auto px-5 mb-10">
-                <div div className="grid grid-cols-12 gap-4 ">
-                    <div className="col-start-3 col-span-8 text-lg font-sans text-justify">
-                        <div class="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
-                            <h1 className="text-4xl font-semibold">Union territory "real Paradise": French colony</h1><br></br>
-                            <div class="blog-content mx-auto">
+            <div   className="container mx-auto px-5 mb-10">
+                <div  className="grid grid-cols-12 gap-4 ">
+                    <div   className="col-start-3 col-span-8 text-lg font-sans text-justify">
+                        <div  className="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
+                            <h1   className="text-4xl font-semibold">Union territory "real Paradise": French colony</h1><br></br>
+                            <div  className="blog-content mx-auto">
                                 <img src="https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2022/09/08150702/Untitled-design-2-2-1600x900.jpg" /><br></br>
                                 <p>Pondicherry, or Puducherry, is famously known as the French Riviera of the East, and is one of the most mesmerizing and charming places in South India. A former French colony, this quaint little town has retained its old-world French charm. 8000 kilometers away from France, Pondicherry comes very close to giving you a feel of the French culture and the French influence is very obvious in the city right from the food to the architecture.</p><br></br>
                                 <p>When I think of Pondicherry, a picture of the promenade along the Rock beach is what comes to my mind. Rock beach or Promenade beach is located in the heart of the city and is one of the top tourist attractions in Pondicherry. It is about a 1.2 km long stretch that starts from the War Memorial and ends at the Dupleix Park on Goubert Avenue. Right in the middle of the promenade is the magnificent statue of Gandhiji. </p><br></br>
@@ -23,10 +23,10 @@ export default function Post_5() {
                                 <p>Love,</p><br></br>
                                 <p>Gowtham Siddharth</p><br></br>
                             </div>
-                            <div class="mt-10 opacity-40 text-sm">
-                                <span class="text-primary mr-2" href="/tag/travel">#travel</span>
-                                <span class="text-primary mr-2" href="/tag/bhutan">#Pondicherry</span>
-                            </div><div class="text-sm opacity-40 mt-4">4/30/2024</div>
+                            <div  className="mt-10 opacity-40 text-sm">
+                                <span  className="text-primary mr-2" href="/tag/travel">#travel</span>
+                                <span  className="text-primary mr-2" href="/tag/bhutan">#Pondicherry</span>
+                            </div><div  className="text-sm opacity-40 mt-4">4/30/2024</div>
                         </div>
                     </div>
                 </div>
