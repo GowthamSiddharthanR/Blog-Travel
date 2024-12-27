@@ -13,9 +13,9 @@ export default function Home() {
                 <div className="col-start-1 col-span-12">
 
                   <figure className="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-                    <a href="#">
-                      <img className=" rounded-lg  max-w-xl h-auto" src="https://www.tripplannersindia.com/assets/images/postimages/Aagaya_Gangai_Waterfalls.webp" alt="image description" />
-                    </a>
+                    <span  >
+                      <img className=" rounded-lg  max-w-xl" style={{ height: "325px" }} src="https://www.tripplannersindia.com/assets/images/postimages/Aagaya_Gangai_Waterfalls.webp" alt="image description" />
+                    </span>
                   </figure>
                 </div>
 
@@ -33,9 +33,9 @@ export default function Home() {
               </div>
               <div className="text-sm text-muted-foreground">
                 <div className="mr-2 inline-block">
-                  <a href="/tag/bhutan">#Kollihills</a>
+                  <span  >#Kollihills</span>
                 </div><div className="mr-2 inline-block">
-                  <a href="/tag/travel">#travel</a>
+                  <span  >#travel</span>
                 </div>
               </div>
             </div>
@@ -45,9 +45,9 @@ export default function Home() {
               <div className="grid grid-cols-12 gap-4  ">
                 <div className="col-start-1 col-span-12">
                   <figure className="relative max-w-lg transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-                    <a href="#">
+                    <span  >
                       <img className="rounded-lg  max-w-xl" style={{ height: "325px" }} src="https://content.r9cdn.net/rimg/dimg/26/2e/ad960cee-city-60709-168cd171c21.jpg?width=1366&height=768&xhint=1370&yhint=964&crop=true&watermarkposition=lowerright" alt="image description" />
-                    </a>
+                    </span>
                   </figure>
                 </div>
               </div></Link>
@@ -64,9 +64,9 @@ export default function Home() {
               </div>
               <div className="text-sm text-muted-foreground">
                 <div className="mr-2 inline-block">
-                  <a href="/tag/bhutan">#Thiruvanamalai</a>
+                  <span  >#Thiruvanamalai</span>
                 </div><div className="mr-2 inline-block">
-                  <a href="/tag/travel">#travel</a>
+                  <span  >#travel</span>
                 </div>
               </div>
             </div>
@@ -77,9 +77,9 @@ export default function Home() {
                 <div className="col-start-1 col-span-12">
 
                   <figure className=" max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-                    <a href="#">
+                    <span  >
                       <img className="rounded-lg max-w-xl" style={{ height: "325px" }} data-nimg="fill" src="https://www.indiautentica.com/wp-content/uploads/2022/10/29ezcwtmtnm.jpg" alt="image description" />
-                    </a>
+                    </span>
                   </figure>
                 </div>
               </div>
@@ -97,9 +97,9 @@ export default function Home() {
           </div>
           <div className="text-sm text-muted-foreground">
             <div className="mr-2 inline-block">
-              <a href="/tag/bhutan">#Kerala</a>
+              <span  >#Kerala</span>
             </div><div className="mr-2 inline-block">
-              <a href="/tag/travel">#travel</a>
+              <span  >#travel</span>
             </div>
           </div>
         </div>
@@ -110,9 +110,9 @@ export default function Home() {
         <div className="col-start-1 col-span-12">
 
             <figure className="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-              <a href="#">
+              <span  >
                 <img className="rounded-lg max-w-xl"  style={{ height: "325px" }} src="https://himalayanrider.wordpress.com/wp-content/uploads/2018/03/img_20170609_185809_hdr.jpg?w=672&h=372&crop=1" alt="image description" />
-              </a>
+              </span>
             </figure>
             </div>
           </div></Link>
@@ -128,9 +128,9 @@ export default function Home() {
           Ladakh is most famous for breathtaking landscapes, the crystal clear skies, the highest mountain passes, thrilling adventure activities, Buddhist Monasteries and festivals. but it is also the place where you will find the Magnetic Hill, the one-of-a-kind phenomena that defies gravity.          </div>
           <div className="text-sm text-muted-foreground">
             <div className="mr-2 inline-block">
-              <a href="/tag/bhutan">#Ladakh</a>
+              <span  >#Ladakh</span>
             </div><div className="mr-2 inline-block">
-              <a href="/tag/travel">#travel</a>
+              <span  >#travel</span>
             </div>
           </div>
         </div>
@@ -141,9 +141,9 @@ export default function Home() {
         <div className="col-start-1 col-span-12">
 
             <figure className="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-              <a href="#">
+              <span  >
                 <img className="rounded-lg max-w-xl"  style={{ height: "325px" }} src="https://www.shutterstock.com/image-photo/arial-view-auroville-experimental-township-600nw-1967101996.jpg" alt="image description" />
-              </a>
+              </span>
             </figure>
             </div>
           </div></Link>
@@ -159,9 +159,9 @@ export default function Home() {
           Amongst the many attractions that this charming town boasts of, the most outstanding is the French Colony, also called the White Town. Flaunting cobblestone streets and yellow houses, this old French residential area retains its old world charm, picturesqueness and also the architecture of the old French quarters.          </div>
           <div className="text-sm text-muted-foreground">
             <div className="mr-2 inline-block">
-              <a href="/tag/bhutan">#Pondicherry</a>
+              <span  >#Pondicherry</span>
             </div><div className="mr-2 inline-block">
-              <a href="/tag/travel">#travel</a>
+              <span  >#travel</span>
             </div>
           </div>
         </div>
@@ -172,9 +172,9 @@ export default function Home() {
         <div className="col-start-1 col-span-12">
 
             <figure className="relative max-w-sm transition-all duration-300 cursor-pointer filter grayscale hover:grayscale-0">
-              <a href="#">
+              <span  >
                 <img className="rounded-lg max-w-xl"  style={{ height: "325px" }} src="https://www.cholaimpressions.com/Blog%20Images/Culture%20And%20Tourism/4193143492_ca23db0df4_o.jpg" alt="image description" />
-              </a>
+              </span>
             </figure>
             </div>
           </div></Link>
@@ -190,9 +190,9 @@ export default function Home() {
           The Brihadeshwara Temple at Thanjavur was built by Rajaraja I in 1009 CE for worshipping Lord Shiva. Thanjavur is called 'The Rice Bowl of Tamil Nadu' because of its agricultural activities in the delta region of river Cauvey. The temple, culture and architecture of Thanjavur are famous throughout world. </div>
           <div className="text-sm text-muted-foreground">
             <div className="mr-2 inline-block">
-              <a href="/tag/bhutan">#Thanjavur</a>
+              <span  >#Thanjavur</span>
             </div><div className="mr-2 inline-block">
-              <a href="/tag/travel">#travel</a>
+              <span  >#travel</span>
             </div>
           </div>
         </div>

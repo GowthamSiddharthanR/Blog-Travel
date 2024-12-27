@@ -24,8 +24,8 @@ export default function Post_5() {
                                 <p>Gowtham Siddharth</p><br></br>
                             </div>
                             <div class="mt-10 opacity-40 text-sm">
-                                <a class="text-primary mr-2" href="/tag/travel">#travel</a>
-                                <a class="text-primary mr-2" href="/tag/bhutan">#Pondicherry</a>
+                                <span class="text-primary mr-2" href="/tag/travel">#travel</span>
+                                <span class="text-primary mr-2" href="/tag/bhutan">#Pondicherry</span>
                             </div><div class="text-sm opacity-40 mt-4">4/30/2024</div>
                         </div>
                     </div>
