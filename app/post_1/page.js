@@ -5,10 +5,10 @@ export default function Post_1() {
         <>
             <div   className="container mx-auto px-5 mb-10">
                 <div  className="grid grid-cols-12 gap-4 ">
-                    <div   className="col-start-3 col-span-8 text-lg font-sans text-justify">
+                    <div   className="col-start-3 col-span-8 text-lg  font-sans text-justify">
                         <div  className="prose lg:prose-xl dark:prose-invert mx-auto lg:prose-h1:text-4xl mb-10 lg:mt-20 break-words">
                             <h1   className="text-4xl font-semibold">The Healing Power of Travel: Finding Myself Again</h1><br></br>
-                            <div  className="blog-content mx-auto">
+                            <div  className="blog-content mx-auto ">
                                 <img src="https://www.holidify.com/images/bgImages/KOLLI-HILLS.jpg" /><br></br>
                                 <p>Around 6:30 AM, we started from Attur to Kollimalai. There are several routes that Google maps would recommend; often through the mud roads to Kollimalai. Please do point to a specific location in Kollimalai like a viewpoint or the most popular Arapaleeswarar temple rather than typing as Kolli Hills. The most important point to note is that the ghat road with 70 hairpin bends is the most exciting part of the journey. Do follow the route recommended at the top of the blog for the best experience.</p><br></br>
                                 <p>We reached Karavalli around 8 AM. A few km before Karavalli, in a small village named Nadukombai, we had breakfast. Hot piping idlies, freshly prepared parottas with sides of Sambhar, 2 chutneys, and veg kurma were fantastic. There are few small shops at Karavalli as well. From Karavalli, the forest check-post lets you to the ghat section of the trip. If one misses Karavalli, you cannot get anything to eat or drink until you reach the top.</p><br></br>
