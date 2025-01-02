@@ -7,7 +7,7 @@ export default function footer() {
                     <div className="text-sm text-muted-foreground">
                         © Siddharth 2024
                     </div>
-                    <div className="text-xs  text-muted-foreground hidden lg:block">
+                    <div className="text-xs  text-muted-foreground  lg:block">
                         <a>Blog powered by spatans</a>
                     </div>
                  

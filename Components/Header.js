@@ -9,7 +9,7 @@ export default function Header() {
             <h1 className="text-4xl md:text-6xl font-bold tracking-tighter leading-tight">Travel.</h1>
           </Link>
           <nav>
-            <div className="hidden md:flex items-center">
+            <div className="flex items-center">
               <div className="ml-4 md:ml-8">
                 <Link href="/" target="_self" className="hover:text-gray-900 font-semibold">
                   Blog</Link>
